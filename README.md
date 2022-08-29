@@ -3,7 +3,7 @@
  </div>
  
  <h2> 👋 Hi, I'm Melika Mohammadi!</h2>
-<p><em>Software Enginner at <a href="https://www.znu.ac.ir/">University of IRAN(Zanajn)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.znu.ac.ir/">University of IRAN(Zanajn)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full-Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <p>
  👀 I’m interested in 🎵 🎨 ☕ </br>
