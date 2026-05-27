@@ -1,36 +1,77 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
- </div>
- 
- <h2> 👋 Hi, I'm Melika Mohammadi!</h2>
-<p><em>Software Enginner at <a href="https://www.znu.ac.ir/">University of IRAN(Zanajn)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+</div>
+
+<h2 align="center">Hi, I'm Melika Mohammadi 👋</h2>
+
+<p align="center">
+Front-End Developer focused on building responsive and scalable web applications using React and TypeScript.
+</p>
+
+<p align="center">
+Currently pursuing an M.Sc in Data Science at RWTH Aachen University.
+</p>
+
+---
+
+## 🚀 About Me
+
+- Front-End Developer with 3+ years of experience
+- Passionate about modern UI development and scalable front-end architecture
+- Experienced in building responsive and user-focused web applications
+- Interested in performance optimization and clean component design
+- Enjoy working in collaborative and agile environments
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 <p>
- 👀 I’m interested in 🎵 🎨 ☕ </br>
- 🌱 I’m currently learning React
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" height="40"/>
 </p>
 
-
-
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="#"target="_blank" rel="noopener noreferrer"> <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:melika.mhmdi.1998@gmail.com"> <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+### State Management & UI
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" height="40"/>
 </p>
 
-<br />
+- Redux
+- Zustand
+- React Query
+- XState
+- Ant Design
+- Material UI
 
-## 🧰 Languages and Tools:
+---
+
+## ⚙️ Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="40"/>
+</p>
+
+- Git
+- GitLab CI/CD
+- VS Code
+
+---
+
+## 📫 Contact
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">   
-<img src="https://img.icons8.com/color/2x/mysql-logo.png" alt=" mysql" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/2x/mongodb.png" alt="mongodb"height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.icons8.com/fluency/344/jupyter.png" alt="jupyter notebook" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://img.icons8.com/color/344/tensorflow.png" alt="Tensorflow"height="40" style="vertical-align:top; margin:4px"> 
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="linkedin" height="40"/>
+  </a>
+
+  <a href="mailto:melikamohammadi024@gmail.com">
+    <img src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="gmail" height="40"/>
+  </a>
 </p>
