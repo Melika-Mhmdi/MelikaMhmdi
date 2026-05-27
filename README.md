@@ -24,50 +24,81 @@ Currently pursuing an M.Sc in Data Science at RWTH Aachen University.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" height="40"/>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 </p>
 
-### State Management & UI
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" height="40"/>
-</p>
-
-- Redux
-- Zustand
-- React Query
-- XState
-- Ant Design
-- Material UI
+- JavaScript  
+- TypeScript  
 
 ---
 
-## ⚙️ Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="40"/>
+### 🎨 Markup & Styling
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/styledcomponents" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
 </p>
 
-- Git
-- GitLab CI/CD
-- VS Code
+- HTML  
+- CSS  
+- Sass  
+- Styled Components  
+- Tailwind CSS  
 
+---
+
+### ⚛️ Frontend Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/antdesign" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
+</p>
+
+- React  
+- Next.js  
+- Ant Design  
+- Material UI  
+
+---
+
+### 🔄 State Management & Data Fetching
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico" height="40"/>
+</p>
+
+- Redux  
+- Zustand  
+- Context API  
+- XState  
+- React Query  
+
+---
+
+### 🛠 Tools & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
+
+- Git  
+- GitLab CI/CD  
+- VS Code  
 ---
 
 ## 📫 Contact
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/melika-mohamadi1998">
     <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="linkedin" height="40"/>
   </a>
 
